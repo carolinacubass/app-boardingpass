@@ -11,4 +11,4 @@
 - TypeScript 
 <br>
 <h3>:white_check_mark: Imagem do Projeto:</h3>
-<img src="https://github.com/carolinacubass/app-boardingpass/blob/main/imagem%20do%20projeto/imagem-1.png" alt="imagem-1"/>
+<img src="https://github.com/carolinacubass/app-boardingpass/blob/main/imagem%20do%20projeto/imagem.png" alt="imagem"/>
